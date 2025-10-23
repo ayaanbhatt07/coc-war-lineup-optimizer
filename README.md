@@ -157,7 +157,9 @@ B                    14         450        4800       110
 ## 👤 Author
 
 **Ayaan Bhatt**
+
 University of Michigan
-📫 https://www.linkedin.com/in/ayaan-bhatt/
+
+https://www.linkedin.com/in/ayaan-bhatt/
 
 ```
