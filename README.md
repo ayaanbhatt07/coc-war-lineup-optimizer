@@ -100,7 +100,7 @@ player_url = f"https://cocproxy.royaleapi.dev/v1/players/{encoded_tag}"
 
 ### Flow
 
-1. The user inputs a clan tag (e.g., `#2PP`).
+1. The user inputs a clan tag (e.g., `#2YPYG2LRQ`).
 2. The program fetches clan members from the Clash of Clans API.
 3. For each player, additional stats like Town Hall level and war preference are retrieved.
 4. The user assigns weights (1–10) to each metric:
@@ -127,8 +127,8 @@ How important are War Stars?: 7
 Best War Lineup for Elite Warriors:
 Name                 TH         Donations  Trophies   War Stars
 ------------------------------------------------------------
-Ayaan                15         600        5200       150
-Ravi                 14         450        4800       110
+A                    15         600        5200       150
+B                    14         450        4800       110
 ... and so on ...
 ```
 
