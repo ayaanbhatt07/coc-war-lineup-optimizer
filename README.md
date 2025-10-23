@@ -1,4 +1,3 @@
-````markdown
 # Clash of Clans – War Lineup Optimizer ⚔️
 
 A Python-based tool designed for **Clash of Clans clan leaders** to optimize war lineups using real-time data from the official **Clash of Clans API**.  
